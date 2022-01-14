@@ -1,3 +1,12 @@
+## 2022/01/15 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1668](https://www.acmicpc.net/problem/1668) | [트로피 진열](https://www.acmicpc.net/problem/1668) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17291](https://www.acmicpc.net/problem/17291) | [새끼치기](https://www.acmicpc.net/problem/17291) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20437](https://www.acmicpc.net/problem/20437) | [문자열 게임 2](https://www.acmicpc.net/problem/20437) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [8980](https://www.acmicpc.net/problem/8980) | [택배](https://www.acmicpc.net/problem/8980) |
+
 ## 2022/01/14 
 
 | 난이도 | 번호 | 문제 이름 |
