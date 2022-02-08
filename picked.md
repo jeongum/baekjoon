@@ -1,3 +1,12 @@
+## 2022/02/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [5568](https://www.acmicpc.net/problem/5568) | [카드 놓기](https://www.acmicpc.net/problem/5568) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20117](https://www.acmicpc.net/problem/20117) | [호반우 상인의 이상한 품질 계산법](https://www.acmicpc.net/problem/20117) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2436](https://www.acmicpc.net/problem/2436) | [공약수](https://www.acmicpc.net/problem/2436) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [21609](https://www.acmicpc.net/problem/21609) | [상어 중학교](https://www.acmicpc.net/problem/21609) |
+
 ## 2022/02/08 
 
 | 난이도 | 번호 | 문제 이름 |
