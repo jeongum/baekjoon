@@ -1,3 +1,12 @@
+## 2022/02/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15649](https://www.acmicpc.net/problem/15649) | [N과 M (1)](https://www.acmicpc.net/problem/15649) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [10427](https://www.acmicpc.net/problem/10427) | [빚](https://www.acmicpc.net/problem/10427) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11559](https://www.acmicpc.net/problem/11559) | [Puyo Puyo](https://www.acmicpc.net/problem/11559) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15823](https://www.acmicpc.net/problem/15823) | [카드 팩 구매하기](https://www.acmicpc.net/problem/15823) |
+
 ## 2022/02/18 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -842,7 +851,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [19844](https://www.acmicpc.net/problem/19844) | [단어 개수 세기](https://www.acmicpc.net/problem/19844) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2212](https://www.acmicpc.net/problem/2212) | [센서](https://www.acmicpc.net/problem/2212) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2225](https://www.acmicpc.net/problem/2225) | [합분해](https://www.acmicpc.net/problem/2225) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
 
 ## 2021/11/16 
 
