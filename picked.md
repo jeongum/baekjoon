@@ -1,3 +1,12 @@
+## 2022/03/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [4096](https://www.acmicpc.net/problem/4096) | [팰린드로미터](https://www.acmicpc.net/problem/4096) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14430](https://www.acmicpc.net/problem/14430) | [자원 캐기](https://www.acmicpc.net/problem/14430) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5569](https://www.acmicpc.net/problem/5569) | [출근 경로](https://www.acmicpc.net/problem/5569) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [22948](https://www.acmicpc.net/problem/22948) | [원 이동하기 2](https://www.acmicpc.net/problem/22948) |
+
 ## 2022/03/02 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1794,7 +1803,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [14627](https://www.acmicpc.net/problem/14627) | [파닭파닭](https://www.acmicpc.net/problem/14627) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11568](https://www.acmicpc.net/problem/11568) | [민균이의 계략](https://www.acmicpc.net/problem/11568) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11568](https://www.acmicpc.net/problem/11568) | [민균이의 계략](https://www.acmicpc.net/problem/11568) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11562](https://www.acmicpc.net/problem/11562) | [백양로 브레이크](https://www.acmicpc.net/problem/11562) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16988](https://www.acmicpc.net/problem/16988) | [Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988) |
 
