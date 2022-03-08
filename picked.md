@@ -1,3 +1,12 @@
+## 2022/03/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1018](https://www.acmicpc.net/problem/1018) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11048](https://www.acmicpc.net/problem/11048) | [이동하기](https://www.acmicpc.net/problem/11048) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [19542](https://www.acmicpc.net/problem/19542) | [전단지 돌리기](https://www.acmicpc.net/problem/19542) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14595](https://www.acmicpc.net/problem/14595) | [동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595) |
+
 ## 2022/03/08 
 
 | 난이도 | 번호 | 문제 이름 |
