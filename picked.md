@@ -1,3 +1,12 @@
+## 2022/03/26 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1969](https://www.acmicpc.net/problem/1969) | [DNA](https://www.acmicpc.net/problem/1969) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15787](https://www.acmicpc.net/problem/15787) | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16168](https://www.acmicpc.net/problem/16168) | [퍼레이드](https://www.acmicpc.net/problem/16168) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22860](https://www.acmicpc.net/problem/22860) | [폴더 정리 (small)](https://www.acmicpc.net/problem/22860) |
+
 ## 2022/03/25 
 
 | 난이도 | 번호 | 문제 이름 |
