@@ -1,3 +1,12 @@
+## 2022/05/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1359](https://www.acmicpc.net/problem/1359) | [복권](https://www.acmicpc.net/problem/1359) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [3187](https://www.acmicpc.net/problem/3187) | [양치기 꿍](https://www.acmicpc.net/problem/3187) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13164](https://www.acmicpc.net/problem/13164) | [행복 유치원](https://www.acmicpc.net/problem/13164) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16916](https://www.acmicpc.net/problem/16916) | [부분 문자열](https://www.acmicpc.net/problem/16916) |
+
 ## 2022/05/01 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -300,7 +309,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2204](https://www.acmicpc.net/problem/2204) | [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15810](https://www.acmicpc.net/problem/15810) | [풍선 공장](https://www.acmicpc.net/problem/15810) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2637](https://www.acmicpc.net/problem/2637) | [장난감 조립](https://www.acmicpc.net/problem/2637) |
 
@@ -2091,7 +2100,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11256](https://www.acmicpc.net/problem/11256) | [사탕](https://www.acmicpc.net/problem/11256) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15992](https://www.acmicpc.net/problem/15992) | [1, 2, 3 더하기 7](https://www.acmicpc.net/problem/15992) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2058](https://www.acmicpc.net/problem/2058) | [원자의 에너지](https://www.acmicpc.net/problem/2058) |
 
