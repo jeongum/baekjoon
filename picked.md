@@ -1,3 +1,12 @@
+## 2022/05/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [3986](https://www.acmicpc.net/problem/3986) | [좋은 단어](https://www.acmicpc.net/problem/3986) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1411](https://www.acmicpc.net/problem/1411) | [비슷한 단어](https://www.acmicpc.net/problem/1411) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17255](https://www.acmicpc.net/problem/17255) | [N으로 만들기](https://www.acmicpc.net/problem/17255) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1774](https://www.acmicpc.net/problem/1774) | [우주신과의 교감](https://www.acmicpc.net/problem/1774) |
+
 ## 2022/05/29 
 
 | 난이도 | 번호 | 문제 이름 |
