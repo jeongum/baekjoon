@@ -1,3 +1,12 @@
+## 2022/06/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10828](https://www.acmicpc.net/problem/10828) | [스택](https://www.acmicpc.net/problem/10828) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1182](https://www.acmicpc.net/problem/1182) | [부분수열의 합](https://www.acmicpc.net/problem/1182) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14945](https://www.acmicpc.net/problem/14945) | [불장난](https://www.acmicpc.net/problem/14945) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1595](https://www.acmicpc.net/problem/1595) | [북쪽나라의 도로](https://www.acmicpc.net/problem/1595) |
+
 ## 2022/06/03 
 
 | 난이도 | 번호 | 문제 이름 |
