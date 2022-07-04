@@ -1,3 +1,12 @@
+## 2022/07/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1503](https://www.acmicpc.net/problem/1503) | [세 수 고르기](https://www.acmicpc.net/problem/1503) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [21921](https://www.acmicpc.net/problem/21921) | [블로그](https://www.acmicpc.net/problem/21921) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1527](https://www.acmicpc.net/problem/1527) | [금민수의 개수](https://www.acmicpc.net/problem/1527) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2206](https://www.acmicpc.net/problem/2206) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
+
 ## 2022/07/04 
 
 | 난이도 | 번호 | 문제 이름 |
