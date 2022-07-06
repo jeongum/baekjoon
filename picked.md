@@ -1,3 +1,12 @@
+## 2022/07/07 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1966](https://www.acmicpc.net/problem/1966) | [프린터 큐](https://www.acmicpc.net/problem/1966) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1495](https://www.acmicpc.net/problem/1495) | [기타리스트](https://www.acmicpc.net/problem/1495) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2073](https://www.acmicpc.net/problem/2073) | [수도배관공사](https://www.acmicpc.net/problem/2073) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2141](https://www.acmicpc.net/problem/2141) | [우체국](https://www.acmicpc.net/problem/2141) |
+
 ## 2022/07/06 
 
 | 난이도 | 번호 | 문제 이름 |
