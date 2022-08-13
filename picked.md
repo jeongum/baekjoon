@@ -1,3 +1,12 @@
+## 2022/08/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [9094](https://www.acmicpc.net/problem/9094) | [수학적 호기심](https://www.acmicpc.net/problem/9094) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [13565](https://www.acmicpc.net/problem/13565) | [침투](https://www.acmicpc.net/problem/13565) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17610](https://www.acmicpc.net/problem/17610) | [양팔저울](https://www.acmicpc.net/problem/17610) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [15644](https://www.acmicpc.net/problem/15644) | [구슬 탈출 3](https://www.acmicpc.net/problem/15644) |
+
 ## 2022/08/13 
 
 | 난이도 | 번호 | 문제 이름 |
