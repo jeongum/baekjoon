@@ -1,3 +1,12 @@
+## 2022/09/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [9655](https://www.acmicpc.net/problem/9655) | [돌 게임](https://www.acmicpc.net/problem/9655) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [19951](https://www.acmicpc.net/problem/19951) | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18769](https://www.acmicpc.net/problem/18769) | [그리드 네트워크](https://www.acmicpc.net/problem/18769) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [4195](https://www.acmicpc.net/problem/4195) | [친구 네트워크](https://www.acmicpc.net/problem/4195) |
+
 ## 2022/08/31 
 
 | 난이도 | 번호 | 문제 이름 |
