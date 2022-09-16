@@ -1,3 +1,12 @@
+## 2022/09/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [9046](https://www.acmicpc.net/problem/9046) | [복호화](https://www.acmicpc.net/problem/9046) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [9079](https://www.acmicpc.net/problem/9079) | [동전 게임](https://www.acmicpc.net/problem/9079) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10703](https://www.acmicpc.net/problem/10703) | [유성](https://www.acmicpc.net/problem/10703) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1507](https://www.acmicpc.net/problem/1507) | [궁금한 민호](https://www.acmicpc.net/problem/1507) |
+
 ## 2022/09/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2083,7 +2092,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2798](https://www.acmicpc.net/problem/2798) | [블랙잭](https://www.acmicpc.net/problem/2798) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [19622](https://www.acmicpc.net/problem/19622) | [회의실 배정 3](https://www.acmicpc.net/problem/19622) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
 
 ## 2022/01/27 
@@ -4261,7 +4270,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1152](https://www.acmicpc.net/problem/1152) | [단어의 개수](https://www.acmicpc.net/problem/1152) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10819](https://www.acmicpc.net/problem/10819) | [차이를 최대로](https://www.acmicpc.net/problem/10819) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
 
 ## 2021/05/30 
