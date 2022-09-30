@@ -1,3 +1,12 @@
+## 2022/10/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [22864](https://www.acmicpc.net/problem/22864) | [피로도](https://www.acmicpc.net/problem/22864) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11055](https://www.acmicpc.net/problem/11055) | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [7662](https://www.acmicpc.net/problem/7662) | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [21943](https://www.acmicpc.net/problem/21943) | [연산 최대로](https://www.acmicpc.net/problem/21943) |
+
 ## 2022/09/30 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -848,7 +857,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1058](https://www.acmicpc.net/problem/1058) | [친구](https://www.acmicpc.net/problem/1058) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1058](https://www.acmicpc.net/problem/1058) | [친구](https://www.acmicpc.net/problem/1058) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1553](https://www.acmicpc.net/problem/1553) | [도미노 찾기](https://www.acmicpc.net/problem/1553) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1932](https://www.acmicpc.net/problem/1932) | [정수 삼각형](https://www.acmicpc.net/problem/1932) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2580](https://www.acmicpc.net/problem/2580) | [스도쿠](https://www.acmicpc.net/problem/2580) |
@@ -3063,7 +3072,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16937](https://www.acmicpc.net/problem/16937) | [두 스티커](https://www.acmicpc.net/problem/16937) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1058](https://www.acmicpc.net/problem/1058) | [친구](https://www.acmicpc.net/problem/1058) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1058](https://www.acmicpc.net/problem/1058) | [친구](https://www.acmicpc.net/problem/1058) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20444](https://www.acmicpc.net/problem/20444) | [색종이와 가위](https://www.acmicpc.net/problem/20444) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1749](https://www.acmicpc.net/problem/1749) | [점수따먹기](https://www.acmicpc.net/problem/1749) |
 
