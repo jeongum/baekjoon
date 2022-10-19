@@ -1,3 +1,12 @@
+## 2022/10/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2609](https://www.acmicpc.net/problem/2609) | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5569](https://www.acmicpc.net/problem/5569) | [출근 경로](https://www.acmicpc.net/problem/5569) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14722](https://www.acmicpc.net/problem/14722) | [우유 도시](https://www.acmicpc.net/problem/14722) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [10986](https://www.acmicpc.net/problem/10986) | [나머지 합](https://www.acmicpc.net/problem/10986) |
+
 ## 2022/10/19 
 
 | 난이도 | 번호 | 문제 이름 |
