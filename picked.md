@@ -1,3 +1,12 @@
+## 2022/10/21 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2729](https://www.acmicpc.net/problem/2729) | [이진수 덧셈](https://www.acmicpc.net/problem/2729) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15658](https://www.acmicpc.net/problem/15658) | [연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14476](https://www.acmicpc.net/problem/14476) | [최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476) |
+
 ## 2022/10/20 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -56,7 +65,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2167](https://www.acmicpc.net/problem/2167) | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2167](https://www.acmicpc.net/problem/2167) | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [21937](https://www.acmicpc.net/problem/21937) | [작업](https://www.acmicpc.net/problem/21937) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11509](https://www.acmicpc.net/problem/11509) | [풍선 맞추기](https://www.acmicpc.net/problem/11509) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
@@ -2108,7 +2117,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2167](https://www.acmicpc.net/problem/2167) | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2167](https://www.acmicpc.net/problem/2167) | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14400](https://www.acmicpc.net/problem/14400) | [편의점 2](https://www.acmicpc.net/problem/14400) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9024](https://www.acmicpc.net/problem/9024) | [두 수의 합](https://www.acmicpc.net/problem/9024) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [10159](https://www.acmicpc.net/problem/10159) | [저울](https://www.acmicpc.net/problem/10159) |
@@ -4196,7 +4205,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2167](https://www.acmicpc.net/problem/2167) | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2167](https://www.acmicpc.net/problem/2167) | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18513](https://www.acmicpc.net/problem/18513) | [샘터](https://www.acmicpc.net/problem/18513) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13422](https://www.acmicpc.net/problem/13422) | [도둑](https://www.acmicpc.net/problem/13422) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17472](https://www.acmicpc.net/problem/17472) | [다리 만들기 2](https://www.acmicpc.net/problem/17472) |
