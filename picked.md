@@ -1,3 +1,12 @@
+## 2022/10/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [21921](https://www.acmicpc.net/problem/21921) | [블로그](https://www.acmicpc.net/problem/21921) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12101](https://www.acmicpc.net/problem/12101) | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17216](https://www.acmicpc.net/problem/17216) | [가장 큰 감소 부분 수열](https://www.acmicpc.net/problem/17216) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14570](https://www.acmicpc.net/problem/14570) | [나무 위의 구슬](https://www.acmicpc.net/problem/14570) |
+
 ## 2022/10/27 
 
 | 난이도 | 번호 | 문제 이름 |
