@@ -1,3 +1,12 @@
+## 2022/10/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [11655](https://www.acmicpc.net/problem/11655) | [ROT13](https://www.acmicpc.net/problem/11655) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14889](https://www.acmicpc.net/problem/14889) | [스타트와 링크](https://www.acmicpc.net/problem/14889) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14716](https://www.acmicpc.net/problem/14716) | [현수막](https://www.acmicpc.net/problem/14716) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1300](https://www.acmicpc.net/problem/1300) | [K번째 수](https://www.acmicpc.net/problem/1300) |
+
 ## 2022/10/28 
 
 | 난이도 | 번호 | 문제 이름 |
