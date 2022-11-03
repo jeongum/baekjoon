@@ -1,3 +1,12 @@
+## 2022/11/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1251](https://www.acmicpc.net/problem/1251) | [단어 나누기](https://www.acmicpc.net/problem/1251) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13910](https://www.acmicpc.net/problem/13910) | [개업](https://www.acmicpc.net/problem/13910) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20955](https://www.acmicpc.net/problem/20955) | [민서의 응급 수술](https://www.acmicpc.net/problem/20955) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16939](https://www.acmicpc.net/problem/16939) | [2×2×2 큐브](https://www.acmicpc.net/problem/16939) |
+
 ## 2022/11/03 
 
 | 난이도 | 번호 | 문제 이름 |
