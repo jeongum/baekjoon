@@ -1,3 +1,12 @@
+## 2022/12/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [14916](https://www.acmicpc.net/problem/14916) | [거스름돈](https://www.acmicpc.net/problem/14916) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [21922](https://www.acmicpc.net/problem/21922) | [학부 연구생 민상](https://www.acmicpc.net/problem/21922) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15789](https://www.acmicpc.net/problem/15789) | [CTP 왕국은 한솔 왕국을 이길 수 있을까?](https://www.acmicpc.net/problem/15789) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1918](https://www.acmicpc.net/problem/1918) | [후위 표기식](https://www.acmicpc.net/problem/1918) |
+
 ## 2022/12/04 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1848,7 +1857,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1940](https://www.acmicpc.net/problem/1940) | [주몽](https://www.acmicpc.net/problem/1940) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15993](https://www.acmicpc.net/problem/15993) | [1, 2, 3 더하기 8](https://www.acmicpc.net/problem/15993) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2533](https://www.acmicpc.net/problem/2533) | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) |
 
