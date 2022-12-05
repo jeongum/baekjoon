@@ -1,3 +1,12 @@
+## 2022/12/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2346](https://www.acmicpc.net/problem/2346) | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1654](https://www.acmicpc.net/problem/1654) | [랜선 자르기](https://www.acmicpc.net/problem/1654) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17291](https://www.acmicpc.net/problem/17291) | [새끼치기](https://www.acmicpc.net/problem/17291) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1766](https://www.acmicpc.net/problem/1766) | [문제집](https://www.acmicpc.net/problem/1766) |
+
 ## 2022/12/05 
 
 | 난이도 | 번호 | 문제 이름 |
