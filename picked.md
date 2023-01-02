@@ -1,3 +1,12 @@
+## 2023/01/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1758](https://www.acmicpc.net/problem/1758) | [알바생 강호](https://www.acmicpc.net/problem/1758) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19942](https://www.acmicpc.net/problem/19942) | [다이어트](https://www.acmicpc.net/problem/19942) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14923](https://www.acmicpc.net/problem/14923) | [미로 탈출](https://www.acmicpc.net/problem/14923) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17142](https://www.acmicpc.net/problem/17142) | [연구소 3](https://www.acmicpc.net/problem/17142) |
+
 ## 2023/01/02 
 
 | 난이도 | 번호 | 문제 이름 |
