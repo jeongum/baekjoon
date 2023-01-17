@@ -1,3 +1,12 @@
+## 2023/01/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2839](https://www.acmicpc.net/problem/2839) | [설탕 배달](https://www.acmicpc.net/problem/2839) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14719](https://www.acmicpc.net/problem/14719) | [빗물](https://www.acmicpc.net/problem/14719) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [21941](https://www.acmicpc.net/problem/21941) | [문자열 제거](https://www.acmicpc.net/problem/21941) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2638](https://www.acmicpc.net/problem/2638) | [치즈](https://www.acmicpc.net/problem/2638) |
+
 ## 2023/01/17 
 
 | 난이도 | 번호 | 문제 이름 |
