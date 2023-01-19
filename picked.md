@@ -1,3 +1,12 @@
+## 2023/01/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16960](https://www.acmicpc.net/problem/16960) | [스위치와 램프](https://www.acmicpc.net/problem/16960) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2531](https://www.acmicpc.net/problem/2531) | [회전 초밥](https://www.acmicpc.net/problem/2531) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20055](https://www.acmicpc.net/problem/20055) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2623](https://www.acmicpc.net/problem/2623) | [음악프로그램](https://www.acmicpc.net/problem/2623) |
+
 ## 2023/01/19 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -660,7 +669,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1436](https://www.acmicpc.net/problem/1436) | [영화감독 숌](https://www.acmicpc.net/problem/1436) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16987](https://www.acmicpc.net/problem/16987) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16987](https://www.acmicpc.net/problem/16987) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14284](https://www.acmicpc.net/problem/14284) | [간선 이어가기 2](https://www.acmicpc.net/problem/14284) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [21925](https://www.acmicpc.net/problem/21925) | [짝수 팰린드롬](https://www.acmicpc.net/problem/21925) |
 
@@ -1840,7 +1849,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1213](https://www.acmicpc.net/problem/1213) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1931](https://www.acmicpc.net/problem/1931) | [회의실 배정](https://www.acmicpc.net/problem/1931) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1600](https://www.acmicpc.net/problem/1600) | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |
 
 ## 2022/06/28 
@@ -2037,7 +2046,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2407](https://www.acmicpc.net/problem/2407) | [조합](https://www.acmicpc.net/problem/2407) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16987](https://www.acmicpc.net/problem/16987) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16987](https://www.acmicpc.net/problem/16987) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브](https://www.acmicpc.net/problem/15685) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16235](https://www.acmicpc.net/problem/16235) | [나무 재테크](https://www.acmicpc.net/problem/16235) |
 
@@ -3981,7 +3990,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10845](https://www.acmicpc.net/problem/10845) | [큐](https://www.acmicpc.net/problem/10845) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16987](https://www.acmicpc.net/problem/16987) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16987](https://www.acmicpc.net/problem/16987) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3107](https://www.acmicpc.net/problem/3107) | [IPv6](https://www.acmicpc.net/problem/3107) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1477](https://www.acmicpc.net/problem/1477) | [휴게소 세우기](https://www.acmicpc.net/problem/1477) |
 
@@ -4217,7 +4226,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1895](https://www.acmicpc.net/problem/1895) | [필터](https://www.acmicpc.net/problem/1895) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16198](https://www.acmicpc.net/problem/16198) | [에너지 모으기](https://www.acmicpc.net/problem/16198) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2457](https://www.acmicpc.net/problem/2457) | [공주님의 정원](https://www.acmicpc.net/problem/2457) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) |
 
 ## 2021/10/07 
 
