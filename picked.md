@@ -1,3 +1,12 @@
+## 2023/01/23 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4134](https://www.acmicpc.net/problem/4134) | [다음 소수](https://www.acmicpc.net/problem/4134) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5547](https://www.acmicpc.net/problem/5547) | [일루미네이션](https://www.acmicpc.net/problem/5547) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16562](https://www.acmicpc.net/problem/16562) | [친구비](https://www.acmicpc.net/problem/16562) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2533](https://www.acmicpc.net/problem/2533) | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) |
+
 ## 2023/01/22 
 
 | 난이도 | 번호 | 문제 이름 |
