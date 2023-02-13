@@ -1,3 +1,12 @@
+## 2023/02/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11502](https://www.acmicpc.net/problem/11502) | [세 개의 소수 문제](https://www.acmicpc.net/problem/11502) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [18429](https://www.acmicpc.net/problem/18429) | [근손실](https://www.acmicpc.net/problem/18429) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17255](https://www.acmicpc.net/problem/17255) | [N으로 만들기](https://www.acmicpc.net/problem/17255) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1719](https://www.acmicpc.net/problem/1719) | [택배](https://www.acmicpc.net/problem/1719) |
+
 ## 2023/02/13 
 
 | 난이도 | 번호 | 문제 이름 |
