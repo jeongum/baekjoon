@@ -1,3 +1,12 @@
+## 2023/02/26 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16439](https://www.acmicpc.net/problem/16439) | [치킨치킨치킨](https://www.acmicpc.net/problem/16439) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2573](https://www.acmicpc.net/problem/2573) | [빙산](https://www.acmicpc.net/problem/2573) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2580](https://www.acmicpc.net/problem/2580) | [스도쿠](https://www.acmicpc.net/problem/2580) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2631](https://www.acmicpc.net/problem/2631) | [줄세우기](https://www.acmicpc.net/problem/2631) |
+
 ## 2023/02/25 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2002,7 +2011,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [4779](https://www.acmicpc.net/problem/4779) | [칸토어 집합](https://www.acmicpc.net/problem/4779) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2589](https://www.acmicpc.net/problem/2589) | [보물섬](https://www.acmicpc.net/problem/2589) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1717](https://www.acmicpc.net/problem/1717) | [집합의 표현](https://www.acmicpc.net/problem/1717) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1717](https://www.acmicpc.net/problem/1717) | [집합의 표현](https://www.acmicpc.net/problem/1717) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1744](https://www.acmicpc.net/problem/1744) | [수 묶기](https://www.acmicpc.net/problem/1744) |
 
 ## 2022/07/16 
@@ -4370,7 +4379,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10816](https://www.acmicpc.net/problem/10816) | [숫자 카드 2](https://www.acmicpc.net/problem/10816) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16928](https://www.acmicpc.net/problem/16928) | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20665](https://www.acmicpc.net/problem/20665) | [독서실 거리두기](https://www.acmicpc.net/problem/20665) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1717](https://www.acmicpc.net/problem/1717) | [집합의 표현](https://www.acmicpc.net/problem/1717) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1717](https://www.acmicpc.net/problem/1717) | [집합의 표현](https://www.acmicpc.net/problem/1717) |
 
 ## 2021/10/26 
 
