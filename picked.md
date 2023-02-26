@@ -1,3 +1,12 @@
+## 2023/02/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1003](https://www.acmicpc.net/problem/1003) | [피보나치 함수](https://www.acmicpc.net/problem/1003) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1389](https://www.acmicpc.net/problem/1389) | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2448](https://www.acmicpc.net/problem/2448) | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) |
+
 ## 2023/02/26 
 
 | 난이도 | 번호 | 문제 이름 |
