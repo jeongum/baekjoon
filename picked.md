@@ -1,3 +1,12 @@
+## 2023/03/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2559](https://www.acmicpc.net/problem/2559) | [수열](https://www.acmicpc.net/problem/2559) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1261](https://www.acmicpc.net/problem/1261) | [알고스팟](https://www.acmicpc.net/problem/1261) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2224](https://www.acmicpc.net/problem/2224) | [명제 증명](https://www.acmicpc.net/problem/2224) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2239](https://www.acmicpc.net/problem/2239) | [스도쿠](https://www.acmicpc.net/problem/2239) |
+
 ## 2023/03/01 
 
 | 난이도 | 번호 | 문제 이름 |
