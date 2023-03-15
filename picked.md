@@ -1,3 +1,12 @@
+## 2023/03/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2606](https://www.acmicpc.net/problem/2606) | [바이러스](https://www.acmicpc.net/problem/2606) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16956](https://www.acmicpc.net/problem/16956) | [늑대와 양](https://www.acmicpc.net/problem/16956) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1062](https://www.acmicpc.net/problem/1062) | [가르침](https://www.acmicpc.net/problem/1062) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1188](https://www.acmicpc.net/problem/1188) | [음식 평론가](https://www.acmicpc.net/problem/1188) |
+
 ## 2023/03/15 
 
 | 난이도 | 번호 | 문제 이름 |
