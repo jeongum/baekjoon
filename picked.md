@@ -1,3 +1,12 @@
+## 2023/04/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [9094](https://www.acmicpc.net/problem/9094) | [수학적 호기심](https://www.acmicpc.net/problem/9094) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9421](https://www.acmicpc.net/problem/9421) | [소수상근수](https://www.acmicpc.net/problem/9421) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12026](https://www.acmicpc.net/problem/12026) | [BOJ 거리](https://www.acmicpc.net/problem/12026) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [11780](https://www.acmicpc.net/problem/11780) | [플로이드 2](https://www.acmicpc.net/problem/11780) |
+
 ## 2023/04/15 
 
 | 난이도 | 번호 | 문제 이름 |
