@@ -1,3 +1,12 @@
+## 2023/05/07 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1212](https://www.acmicpc.net/problem/1212) | [8진수 2진수](https://www.acmicpc.net/problem/1212) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3151](https://www.acmicpc.net/problem/3151) | [합이 0](https://www.acmicpc.net/problem/3151) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [21924](https://www.acmicpc.net/problem/21924) | [도시 건설](https://www.acmicpc.net/problem/21924) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9944](https://www.acmicpc.net/problem/9944) | [NxM 보드 완주하기](https://www.acmicpc.net/problem/9944) |
+
 ## 2023/05/06 
 
 | 난이도 | 번호 | 문제 이름 |
