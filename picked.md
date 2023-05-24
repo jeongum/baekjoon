@@ -1,3 +1,12 @@
+## 2023/05/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9242](https://www.acmicpc.net/problem/9242) | [폭탄 해체](https://www.acmicpc.net/problem/9242) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [10703](https://www.acmicpc.net/problem/10703) | [유성](https://www.acmicpc.net/problem/10703) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20922](https://www.acmicpc.net/problem/20922) | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17398](https://www.acmicpc.net/problem/17398) | [통신망 분할](https://www.acmicpc.net/problem/17398) |
+
 ## 2023/05/24 
 
 | 난이도 | 번호 | 문제 이름 |
